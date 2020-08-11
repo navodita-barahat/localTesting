@@ -1,0 +1,17 @@
+{
+  "name": "localtesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navodita-barahat/localTesting.git"
+  },
+  "author": "navodita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navodita-barahat/localTesting/issues"
+  },
+  "homepage": "https://github.com/navodita-barahat/localTesting#readme"
+}
